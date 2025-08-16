@@ -1,1 +1,2 @@
-# power-bi-Dashboard
+# Super Store Dashboard
+### use KPI in this Dashboard
